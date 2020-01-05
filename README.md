@@ -1,1 +1,1 @@
-Hello
+This project is based on minimal-mistakes.
