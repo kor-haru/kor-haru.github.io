@@ -1,5 +1,5 @@
 ---
-title : "first post...?"
+title : "Markdown Practice"
 category :
   - init
 tag :
@@ -9,11 +9,6 @@ sidebar_main : true
 use_math : true
 toc : true
 ---
-
-hello
-
-## hello
-### hello
 
 # H1 tag
 ## H2 tag
