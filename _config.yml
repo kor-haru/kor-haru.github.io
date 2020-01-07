@@ -17,11 +17,12 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi I am DaeHyeok Kwon"
+title                    : "Life Atelier"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Vwan's 이모저모"
-description              : "I don't know well. What should I do yet."
+# subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Lazy blog"
+name                     : "Vwan"
+description              : "I don't know well... What should I do yet."
 #url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : "https://dopingcat.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
