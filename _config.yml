@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Life Atelier"
 title_separator          : "-"
 # subtitle                 : # site tagline that appears below site title in masthead
-subtitle                 : "Lazy blog"
+subtitle                 : "Toooooooo Lazy blog"
 name                     : "Vwan"
 description              : "I don't know well... What should I do yet."
 #url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -119,7 +119,7 @@ author:
   name             : "DaeHyeok Kwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Hello there"
+  bio              : "내용에 오류, 오타 및 불편한(?) 부분이 있다면 언제든지 DM을 부탁드립니다."
   location         : "Seoul, Korea"
   email            : "dopingcat@gmail.com"
   links:
