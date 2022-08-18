@@ -170,8 +170,14 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/linux,macos,windows,webstorm,visualstudiocode
+### Obsidian ###
+# config dir
+.obsidian/
 
+# End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,webstorm,visualstudiocode,obsidian
+
+### Custom ignore ###
+# project
 *.gem
 *.sublime-project
 *.sublime-workspace
@@ -189,3 +195,6 @@ node_modules
 npm-debug.log*
 vendor/bundle
 package-lock.json
+
+# obsidian
+ob_templates
