@@ -68,7 +68,7 @@ _italic_
 ![profile](https://avatars1.githubusercontent.com/u/7959896?s=460&v=4)
 
 - relative path (상대 경로)
-![profile](_res/images/profile.png)
+![profile](../_res/images/profile.png)
 
 ---
 
